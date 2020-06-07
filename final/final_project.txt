@@ -1,0 +1,50 @@
+Author: Roy Sorce
+Partner: Sarah Sha
+
+Description of Game:
+We are recreating the game PacMan. We will use the SD card to hold our
+background graphic, as well as our audio. The LCD will display a simplified
+version of pacman. We will incorporate a nunchuk as a way to control pacman.
+The ghosts will move randomly. The nunchuk will also act as out user input.
+At the beginning of the game, the pacman intro music is played (our audio).
+
+Task Breakdown:
+
+1 - Intializations and the Makefile (incorporating all the correct files and wires)
+
+Roy
+
+
+2 - Creating the maze
+
+Sarah/Roy
+
+
+3 - Creating the ghosts AIs and pacman
+
+Sarah
+
+
+4 - Create levels (3)
+
+Sarah
+
+
+5 - Creating the candies
+
+Roy
+
+
+5 - Incorporating the images             
+
+Roy
+
+
+6 - Incorporating the audio
+
+Sarah
+
+
+
+
+****** final_project.txt****** both partners should have the exact same final_project.txt
